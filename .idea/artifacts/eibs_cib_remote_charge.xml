@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="eibs-cib-remote-charge">
+    <output-path>$PROJECT_DIR$/out/artifacts/eibs_cib_remote_charge</output-path>
+    <root id="archive" name="eibs-cib-remote-charge-j8v52b0.jar">
+      <element id="module-output" name="eibs-cib-remote-charge" />
+    </root>
+  </artifact>
+</component>
